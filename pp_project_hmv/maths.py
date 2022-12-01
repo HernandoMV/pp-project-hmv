@@ -1,4 +1,5 @@
 from typing import Union
+import fire
 
 
 def add_numbers(
@@ -13,3 +14,11 @@ def subtract_numbers(a, b):
 
 def multiply_numbers(a, b):
     return a * b
+
+
+def main():
+    fire.Fire(add_numbers)
+
+
+if __name__ == "__main__":
+    main()

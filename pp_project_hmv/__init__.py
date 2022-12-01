@@ -7,7 +7,7 @@ __author__ = "Hernando M. Vergara"
 __version__ = get_version()
 __license__ = "whatever"
 
-print("I am being initiated, thank you... hehehe")
+# print("I am being initiated, thank you... hehehe")
 
 # here I could import stuff from the inner modules so that
 # they are importable directly from pp_project_hmv

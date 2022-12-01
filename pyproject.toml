@@ -10,6 +10,7 @@ dependencies = [
     "numpy",
     "pandas",
     "setuptools_scm",
+    "fire",
 ]
 
 
@@ -53,3 +54,7 @@ exclude = '''
   )/
 )
 '''
+
+
+[project.scripts]
+add_nums = "pp_project_hmv.maths:main"
