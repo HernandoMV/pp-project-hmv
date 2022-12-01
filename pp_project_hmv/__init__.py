@@ -3,11 +3,11 @@ from setuptools_scm import get_version
 
 # These are conventions that would be accessible like this:
 # print(pp_project_hmv.__author__)
-__author__ = 'Hernando M. Vergara'
+__author__ = "Hernando M. Vergara"
 __version__ = get_version()
-__license__ = 'whatever'
+__license__ = "whatever"
 
-print('I am being initiated, thank you... hehehe')
+print("I am being initiated, thank you... hehehe")
 
 # here I could import stuff from the inner modules so that
 # they are importable directly from pp_project_hmv
