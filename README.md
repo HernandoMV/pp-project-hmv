@@ -1,5 +1,10 @@
 ### pp-project-hmv
 
+https://sainsburywellcomecentre.github.io/software-skills/events/release_dec_2022.html
+pip install cookiecutter
+cookiecutter https://github.com/SainsburyWellcomeCentre/python-cookiecutter
+
+
 pip install pp-project-hmv
 
 But!:
