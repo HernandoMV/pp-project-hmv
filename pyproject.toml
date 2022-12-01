@@ -30,4 +30,5 @@ build-backend = "setuptools.build_meta"
 dev = [
     "pytest",
     "setuptools_scm",
+    "flake8",
 ]

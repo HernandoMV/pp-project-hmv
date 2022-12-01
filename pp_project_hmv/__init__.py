@@ -9,10 +9,9 @@ __license__ = 'whatever'
 
 print('I am being initiated, thank you... hehehe')
 
-# here I could import stuff from the inner modules so that 
+# here I could import stuff from the inner modules so that
 # they are importable directly from pp_project_hmv
 # let's say 'stuff' is inside module A, I can add this here
 # from .moduleA import stuff
 # then I can do from within another repo that uses this:
 # from pp_project_hmv import stuff
-
