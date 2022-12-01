@@ -22,3 +22,6 @@ There is no reason for most people to have a setup.py file, or a setup.cfg
 
 
 Version will be infered automatically and written to the file.
+
+This line: 'pre-commit install' will need to be run by developers to install the package
+that allows the automated checks before commiting
