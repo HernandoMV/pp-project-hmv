@@ -30,6 +30,7 @@ dev = [
     "setuptools_scm",
     "flake8",
     "black",
+    "mypy",
 ]
 
 
