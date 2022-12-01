@@ -1,6 +1,6 @@
 [project]
 name = "pp-project-hmv"
-authors = [{name = "Hernando M Vergara", email= "code@hmv.com"}]
+authors = [{name = "Hernando M Vergara", email= "hernybiotec@gmail.com"}]
 description = "Example of how to package Python projects"
 readme = "README.md"
 requires-python = ">=3.8.0"
