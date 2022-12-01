@@ -8,9 +8,16 @@ dynamic = ["version"] # this means it will get infered automatically
 
 license = {text = "BSD-3-Clause"}
 
+dependencies = [
+    "numpy",
+    "pandas",
+]
+
+
 [build-system]
 requires = [
     "setuptools>=45",
     "wheel",
 ]
 build-backend = "setuptools.build_meta"
+
