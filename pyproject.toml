@@ -1,0 +1,16 @@
+[project]
+name = "pp-project-hmv"
+authors = [{name = "Hernando M Vergara", email= "code@hmv.com"}]
+description = "Example of how to package Python projects"
+readme = "README.md"
+requires-python = ">=3.8.0"
+dynamic = ["version"] # this means it will get infered automatically
+
+license = {text = "BSD-3-Clause"}
+
+[build-system]
+requires = [
+    "setuptools>=45",
+    "wheel",
+]
+build-backend = "setuptools.build_meta"
