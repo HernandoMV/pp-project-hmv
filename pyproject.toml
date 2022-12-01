@@ -9,6 +9,7 @@ license = {text = "BSD-3-Clause"}
 dependencies = [
     "numpy",
     "pandas",
+    "setuptools_scm",
 ]
 
 
